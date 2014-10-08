@@ -1,4 +1,4 @@
 test_repo
 =========
 
-a test
+This is a test run.
